@@ -1,4 +1,4 @@
-## Hi there 👋
+# MinecraftSMP.de Network Organization
 
 <!--
 
